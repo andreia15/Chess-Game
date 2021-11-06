@@ -10,3 +10,4 @@ note: some implementaion has been updated in unity for example
 in the video it he uses [Serializable] for private field however 
 that has been chnanged in the new unity version. now it is [System.Serializable]
 so just be carefull.
+
